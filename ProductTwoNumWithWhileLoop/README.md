@@ -1,6 +1,6 @@
 # Draw flowchart and write a python program that asks thee user to enter two numbers. the numbers should be multiplied, and the product displayed, a message should be displayed if the product is less than 50. The program should ask the user if he or she wishes to perform the operation again. If so the program should repeat, otherwise it should terminate.
 ## Output
-```
+```python
 Enter number 1: 5
 Enter number 2: 8
 The product of two numbers: 40
