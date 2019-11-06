@@ -12,4 +12,5 @@ Enter number 2: 10
 The product of two numbers: 60
 
 if you want calculate another numbers, Enter (y): n
+------------------- THANK YOU -------------------
 ```
