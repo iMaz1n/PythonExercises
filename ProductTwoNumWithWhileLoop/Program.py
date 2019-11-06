@@ -14,7 +14,7 @@ while isWantMore == 'y':
 	print("The product of two numbers:",product)
 	if product < 50:
 		print("The product is less than 50")
-	isWantMore = input("if you want calculate another numbers, Enter (y): ").lower()
+	isWantMore = input("\nif you want calculate another numbers, Enter (y): ").lower()
 	if isWantMore == 'y':
 		continue
 	else:
